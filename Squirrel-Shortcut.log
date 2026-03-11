@@ -1,0 +1,7 @@
+﻿[10/01/26 03:35:20] info: Program: Starting Squirrel Updater: --createShortcut=ferramentas-guru-v6.exe
+[10/01/26 03:35:20] info: ApplyReleasesImpl: About to create shortcuts for ferramentas-guru-v6.exe, rootAppDir C:\Users\Markes\AppData\Local\ferramentas_guru_v6
+[10/01/26 03:35:21] info: ApplyReleasesImpl: Creating shortcut for ferramentas-guru-v6.exe => C:\Users\Markes\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ferramentas Guru\Ferramentas Guru V6.lnk
+[10/01/26 03:35:21] info: ApplyReleasesImpl: About to save shortcut: C:\Users\Markes\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ferramentas Guru\Ferramentas Guru V6.lnk (target C:\Users\Markes\AppData\Local\ferramentas_guru_v6\ferramentas-guru-v6.exe, workingDir C:\Users\Markes\AppData\Local\ferramentas_guru_v6\app-6.0.0, args , toastActivatorCSLID 5dd2c8fb-1f04-5ae9-adeb-b3a42f8b9253)
+[10/01/26 03:35:21] info: ApplyReleasesImpl: Creating shortcut for ferramentas-guru-v6.exe => C:\Users\Markes\Desktop\Ferramentas Guru V6.lnk
+[10/01/26 03:35:21] info: ApplyReleasesImpl: About to save shortcut: C:\Users\Markes\Desktop\Ferramentas Guru V6.lnk (target C:\Users\Markes\AppData\Local\ferramentas_guru_v6\ferramentas-guru-v6.exe, workingDir C:\Users\Markes\AppData\Local\ferramentas_guru_v6\app-6.0.0, args , toastActivatorCSLID 5dd2c8fb-1f04-5ae9-adeb-b3a42f8b9253)
+[10/01/26 03:35:21] info: Program: Finished Squirrel Updater
